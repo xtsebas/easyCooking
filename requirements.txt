@@ -1,0 +1,5 @@
+Registrarse e iniciar sesión para tener una cuenta personalizada.
+Añadir recetas con detalles como ingredientes, pasos de preparación, tiempo de cocción y fotos.
+Buscar y filtrar recetas por categorías, ingredientes o dificultad.
+Comentar y calificar las recetas de otros usuarios.
+Guardar recetas favoritas para acceder a ellas fácilmente.
