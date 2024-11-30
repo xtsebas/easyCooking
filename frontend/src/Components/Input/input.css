@@ -1,7 +1,6 @@
-/* From Uiverse.io by WhiteNervosa */ 
 .textInputWrapper {
   position: relative;
-  width: auto;
+  width: 90%;
   margin: 12px 5px;
   --accent-color: #1d5800;
 }
